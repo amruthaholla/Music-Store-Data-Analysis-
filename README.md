@@ -4,7 +4,7 @@ The objective of this project is to leverage SQL queries to extract meaningful i
 README.md: This file provides an overview of the project and instructions for using the repository.  
 MusicStoreData_ProblemStatement - Contains all the business problems.  
 schema_diagram - Contains the database schema.  
-MusicStoreData_Dataset - The required database files in the CSV format.  
+MusicStoreData_Dataset(CSV files) - The required database files in the CSV format.  
 Music Store Query Doc - Contains SQL queries and answers for all questions.
 # How to Use This Repository
 Clone the repository to your local machine.
